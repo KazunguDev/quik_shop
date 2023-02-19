@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686163716358",
+    "firebase_url": "https://quik-shop-ace23-default-rtdb.firebaseio.com",
+    "project_id": "quik-shop-ace23",
+    "storage_bucket": "quik-shop-ace23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686163716358:android:03872bca375d09e3825687",
+        "android_client_info": {
+          "package_name": "com.kazungudev.quik_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686163716358-pesi9gbna4dh25t359sofekddq19h281.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazungudev.quik_shop",
+            "certificate_hash": "55264205820edd91849e3bc96957c7550f05dc4f"
+          }
+        },
+        {
+          "client_id": "686163716358-io77gv03hop9nbjrqrftjcv9u6ls1aif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzbK56-NHyrSTaU4d-xROJP_ctmchwk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686163716358-fb6kqi0snm9h0rd0unkkhss8mnf5jris.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
